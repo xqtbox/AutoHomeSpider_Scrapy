@@ -19,4 +19,7 @@
 ### 3.1 获取所有车型的id
 ### 3.2 本爬虫采用scrapy框架分析所需要的评论信息为
 
-## 4 完整项目描述博客：http://blog.csdn.net/u012052268/article/details/72810037
+
+## 4 运行方式：下载后，用pycharm运行main.py文件即可
+
+## 5 完整项目描述博客：http://blog.csdn.net/u012052268/article/details/72810037
